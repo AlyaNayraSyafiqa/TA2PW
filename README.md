@@ -14,12 +14,11 @@ Tujuan pembuatan website ini adalah untuk menampilkan profil pribadi, proyek-pro
 - Halaman "Proyek" menampilkan beberapa project.  
 - Halaman "Kontak" berisi tautan media sosial dan formulir pesan.  
 - Footer berisi informasi hak cipta.  
-- Animasi dan transisi lembut di seluruh halaman.
 
 
 ## Teknologi yang Digunakan
-- HTML5 : Menyusun struktur dan konten halaman web.  
-- CSS3 : Mengatur tampilan dengan Flexbox, animasi, dan transisi.  
+- HTML : Menyusun struktur dan konten halaman web.  
+- CSS : Mengatur tampilan dengan Flexbox, animasi, dan transisi.  
 - Git & GitHub : Untuk version control dan publikasi project.
 
 
